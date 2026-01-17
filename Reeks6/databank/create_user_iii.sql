@@ -1,0 +1,4 @@
+\c iii;
+/*DROP USER iii;*/
+CREATE USER iii WITH PASSWORD 'iiipwd';
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO iii;
