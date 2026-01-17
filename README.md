@@ -16,9 +16,12 @@ Deze repository bevat oplossingen voor het vak "Frameworks voor Serverapplicatie
 | **Reeks 1** | Basis REST API | Spring Boot, REST Controller, In-memory data |
 | **Reeks 2** | Database Integratie | Spring Data JPA, H2, Profiles |
 | **Reeks 3** | Security & Authentication | Spring Security, Role-based access |
+| ~~Reeks 4~~ | *(niet beschikbaar)* | - |
 | **Reeks 5** | Reactive Programming | Spring WebFlux, MongoDB, Reactor (Mono/Flux) |
 | **Reeks 6** | Low-Level JDBC | Spring JDBC, PostgreSQL |
 | **Reeks 7** | .NET Implementatie | C#, Entity Framework patterns |
+
+*Opmerking: Reeks 4, 8, 9 en 10 zijn niet opgenomen in deze repository.*
 
 ## 🚀 Quick Start
 

@@ -325,7 +325,7 @@ public class BlogPost {
 ```java
 // Map - transformeer elk element
 Flux<String> titles = repository.findAll()
-    .map(post -> post.getTitle());
+    .map(BlogPost::getTitle);
 
 // Filter - filter elementen
 Flux<BlogPost> filtered = repository.findAll()

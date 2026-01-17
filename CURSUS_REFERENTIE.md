@@ -932,4 +932,4 @@ java -jar app.jar
 
 ---
 
-*Laatst bijgewerkt: Januari 2026*
+*Documentatie gebaseerd op de beschikbare lab oplossingen (Reeks 1, 2, 3, 5, 6, 7)*
